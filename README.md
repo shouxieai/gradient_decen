@@ -1,4 +1,5 @@
-# gradient_decen
+# 手写AI出品
+# 梯度下降（gradient_decen）
 
 b站视频讲解:
 
